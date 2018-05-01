@@ -1,6 +1,9 @@
 # super mario in windows
 
 - Windows linux subsystem 활성화
+  - 참조 주소
+    - https://brunch.co.kr/@kakao-it/144
+    - http://jinman190.blogspot.kr/2017/10/openai-gym.html
 
 - ubuntu 설치
 - ubuntu update
